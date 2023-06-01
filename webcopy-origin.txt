@@ -1,0 +1,7 @@
+﻿Uri: https://fiy-cjn.github.io/syr-cljr/?url=https://m.3977610.com:15290/register?id=68054771
+File Name: D:\WebCopy\qiantigers.github.io\qq_fanghong\api\index.htm
+Content Type: text/html
+
+Uri: https://sdk.51.la/js-sdk-pro.min.js
+File Name: D:\WebCopy\qiantigers.github.io\js-sdk-pro.min.js
+Content Type: application/javascript
