@@ -1,2 +1,1 @@
-# syr-cljr
-中转sk
+中转sk1
